@@ -1,0 +1,13 @@
+.toggle-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  margin: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  background: #333;
+}
